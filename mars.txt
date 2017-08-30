@@ -1,4 +1,9 @@
+Jaime second trial
+<<<<<<< HEAD
 Jaime
+=======
+My changes to your file EN
+>>>>>>> bd55a289b33938d0e8d81e2d1d951fd5fb212f6c
 mars
 Cold an ddry, but everything is my favorite color
 The two moons may be a problem for Wolfam
